@@ -8,12 +8,14 @@ Prácticas Concurrencia y Paralelismo (curso 2021/22)
 
 - **Examen**: *10*
 
-- **[Práctica 1](https://github.com/GEI-CP-614G010182122/p1-rascadux)**: 
-- **[Práctica 2](https://github.com/GEI-CP-614G010182122/p2-rascadux)**: 
-- **[Práctica 3](https://github.com/GEI-CP-614G010182122/p3-rascadux)**: 
+- **[Práctica 1](https://github.com/GEI-CP-614G010182122/p1-rascadux)**: *7*
+- **[Práctica 2](https://github.com/GEI-CP-614G010182122/p2-rascadux)**: *9,2*
+- **[Práctica 3](https://github.com/GEI-CP-614G010182122/p3-rascadux)**: *9,4*
  
 ### Paralelismo
 
-- **Práctica 1**: 
-- **Práctica 2**: 
-- **Práctica 3**: 
+- **Examen**: *10*
+
+- **Práctica 1**: *6,5*
+- **Práctica 2**: *8*
+- **Práctica 3**: *9*
